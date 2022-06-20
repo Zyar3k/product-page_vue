@@ -1,1 +1,7 @@
-console.log("Starting...");
+const app = Vue.createApp({
+  data() {
+    return {
+      product: "Socks",
+    };
+  },
+});
