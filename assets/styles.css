@@ -35,3 +35,11 @@ img {
   -moz-box-shadow: 0px 2px 15px -12px rgba(0, 0, 0, 0.57);
   box-shadow: 2px 15px -12px rgba(0, 0, 0, 0.57);
 }
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 18px;
+}
